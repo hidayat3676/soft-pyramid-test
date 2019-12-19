@@ -19,9 +19,9 @@ file.
  
  Admin credentials:
  
- Email: admin@admin.com
+ -Email: admin@admin.com
  
- password: admin123
+ -password:<strong> admin123</strong>
  
  </code>
  
